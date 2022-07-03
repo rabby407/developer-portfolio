@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    background-color: rebeccapurple;
 }
 
 h1 {
@@ -36,4 +37,21 @@ section {
 .top {
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+}
+
+.drem {
+    margin-top: 100px;
+}
+
+.half-width img {
+    width: 140%;
+}
+
+.half-width {
+    padding-left: 160px;
+}
+
+.half-with {
+    width: 50%;
+    padding-right: 5%;
 }
